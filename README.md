@@ -45,7 +45,10 @@ O programa baseado em código não creditado ou utilizado em violação da sua l
 
 Exame
 =====
-O exame será realizado da seguinte forma. Dia 13/12, o aluno deverá apresentar o trabalho 1 (Calculadora), sendo avaliado pelos mesmos critérios de entrega e tendo nota máxima 5.
+O exame será realizado da seguinte forma. Dia 13/12, o aluno deverá apresentar o trabalho 1 (Calculadora), sendo avaliado pelos mesmos critérios de entrega e tendo nota máxima 6
+
+Não será considerado pontos extras!
+
 A correção do trabalho e revisão será rigorosa.
 
 
