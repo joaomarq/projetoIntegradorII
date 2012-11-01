@@ -32,7 +32,7 @@ Pontos Extras
 Os pontos extras podem ser utilizados em qualquer nota do curso.
 
 - Utilizar alguma prática de teste automatizado (por ex. junit) (1.0)
-- Hospedar o código no github (1.0)
+- Utilizar o  github  para commit, não vale só commitar no último dia.(1.0)
 
 Data e formato de entrega
 =========================
